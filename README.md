@@ -4,7 +4,7 @@
 
 ### Pues ya tienes 'Colecciones'. Quédatelo y colecciona!
 
-![2024-04-06 10_33_32-Colecciones y 3 páginas más - Personal_ Microsoft​ Edge](https://github.com/cincoysiete/coleccionesg/assets/63308855/fc9d7fd9-99ab-4ae7-af26-7040368154ef)
+![2024-04-06 10_33_14-Colecciones y 3 páginas más - Personal_ Microsoft​ Edge](https://github.com/cincoysiete/coleccionesg/assets/63308855/69853e34-357b-4daa-a73c-ebdc6a61749c)
 
 ---
 
