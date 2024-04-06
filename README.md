@@ -1,12 +1,12 @@
-Colecciona todo lo que te apetezca
+## Colecciona todo lo que te apetezca
 
-Te gusta anotar lo que compras, adonde viajas, cuanto llueve, tus ahorros, el consumo de combustible, las pelis que ves, tus mejores recetas de cocina..?
+### Te gusta anotar lo que compras, adonde viajas, cuanto llueve, tus ahorros, el consumo de combustible, las pelis que ves, tus mejores recetas de cocina..?
 
-Pues ya tienes 'Colecciones'. Quédatelo y colecciona!
+### Pues ya tienes 'Colecciones'. Quédatelo y colecciona!
 
 ---
 
-## Crear base
+### Crear base
 Debes el nombre de la base y el número de decimales que deben tener los campos numéricos.
 Tienes disponibles hasta 20 campos para crear la base. En cada uno de los campos podrás escribir el nombre del campo, que aparecerá en la base, el tipo de campo y si es numérico, si quieres que lo sume y haga la media.
 También puedes añadir un comentario que aparecerá junto al nombre de la base de datos.
@@ -21,7 +21,7 @@ Los tipos de registros son:
 - url. url
 - doc. documento
 
-## Importar base
+### Importar base
 1. Crea una base de datos en formato .csv con los campos y características de la base que necesitas importar.
 2. Al mostrar la vista de tabla de la base verás que está vacía y abajo aparece el icono de importar
 3. Importa la base en el formato especificado más abajo
@@ -39,7 +39,7 @@ FECHA;CONCEPTO;COSTE;NOTAS;FOTO
 2023-01-24;terce;77
 
 
-## Vista en modo tabla
+### Vista en modo tabla
 Se trata de la vista por defecto de la base de datos. Tocando en el ojo aparecerá la ficha completa del registro.
 
 Para ordenar la base de datos toca sobre el nombre del campo por el que ordenar .
@@ -56,14 +56,14 @@ Aquí puedes:
 Una vez seleccionadas las columnas solo habrá que tocar en la gráfica del header.
 
 
-## Vista en modo ficha
+### Vista en modo ficha
 - Capturar registro. El registro se descarga como imagen
 - Modificar registro. Deberás tocar en el candado para desbloquear el registro
 - Avanzar/retroceder registro
 
 ---
 
-## Estructura y archivos de la base
+### Estructura y archivos de la base
 
 base.csv
 1;2023-01-19;prime;33;pa que lo quieres;upload/01 Aiptek.jpg
@@ -101,7 +101,7 @@ $med[4]="";
 ?>
 ````
 
-## constantes.php
+### constantes.php
 ````php
 <?php
 $nom="Base de datos";       // NOMBRE DE LA PLICACION
