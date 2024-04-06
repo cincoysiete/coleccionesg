@@ -78,7 +78,7 @@ if ($_SESSION["filtro"]!="" and $_SESSION["movilZ"]!=-1){
 echo '          <span class="textopequeno"><a href="nofiltra.php"><img src="filtrar.png" width="25px"></a> '.$_SESSION["filtro"]." en ".$col[$_SESSION["columna"]].'</span>';
 } 
 
-if ($_SESSION["filtro"]=="" and $_SESSION["movilZ"]==-1){
+if ($_SESSION["filtro"]!="" and $_SESSION["movilZ"]==-1){
    echo '          <span class="textopequeno"><a href="nofiltra.php"><img src="filtrar.png" width="25px"></a> '.'</span>';
 }
 

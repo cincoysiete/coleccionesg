@@ -7,6 +7,7 @@ $_SESSION["col01"]="";
 $_SESSION["col02"]="";
 $_SESSION["filtro"]="";
 $_SESSION["columna"]="";
+
 ?>
 
 <html lang="es">
